@@ -1,3 +1,0 @@
-Kaleb Dutson
-Favorite Environment: JetBrains IDEs
-Favorite Language: Python 3

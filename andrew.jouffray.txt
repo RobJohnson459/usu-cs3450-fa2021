@@ -1,3 +1,0 @@
-Andrew Jouffray
-Vim
-C++

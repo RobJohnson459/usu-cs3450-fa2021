@@ -1,3 +1,0 @@
-James Bates
-Visual Studio Code
-C++

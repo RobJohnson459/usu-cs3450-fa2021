@@ -1,5 +1,0 @@
-Kevin Thomas
-
-JetBrains WebStorm
-
-JavaScript

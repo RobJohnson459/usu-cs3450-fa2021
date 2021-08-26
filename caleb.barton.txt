@@ -1,4 +1,0 @@
-Caleb Barton
-
-Favorite coding environment: 	Intellij
-Favorite language:		Java

@@ -1,3 +1,0 @@
-Peyton Kiel
-Visual Studio Code
-Java

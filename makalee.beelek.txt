@@ -1,3 +1,0 @@
-Name: Makalee Beelek 
-Favorite Coding Environment: 
-IntelliJ IDEA Favorite Language: Java

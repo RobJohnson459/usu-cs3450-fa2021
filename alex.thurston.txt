@@ -1,3 +1,0 @@
-Alex Thurston
-Favorite Environment: JetBrains IDEs
-Favorite Language: Java

@@ -1,3 +1,0 @@
-Bradley Payne
-JetBrains Toolbox products
-Python

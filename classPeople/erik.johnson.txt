@@ -1,0 +1,3 @@
+Erik Johnson
+Vim
+Python is fun

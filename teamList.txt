@@ -12,7 +12,7 @@ x	Jake Michael Epperson
 x	Thadeus Don Ferney
 x	Austin Christopher Galura
 x	Jonathan Gates
-x	Jaren Sean Glenn
+Jaren Sean Glenn (Jaren)
 x	Caleb Allan Harris
 x	Brandon K Hicken
 x	Eathan Yves Hodgkinson
@@ -29,7 +29,7 @@ x	Justin Samuel Reid
 x	Jonathan P Scoresby
 x	Vinny M Smith
 x	Nick Parker Sorenson
-x	Brock Brock Sponenburgh
+Brock Sponenburgh (Brock)
 x	Brandon Spencer Stone
 x	Jordan D Taylor
 x	Alex Troy Teeples

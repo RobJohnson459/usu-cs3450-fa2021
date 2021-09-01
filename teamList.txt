@@ -1,10 +1,10 @@
-x	Adam Tariq Alder
+Adam Tariq Alder (Adam)
 x	Benjamin Thomas Ashton
 x	Trax Kent Bagley
-x	Lane T Barnes
-x	Stephen P Beckstrand
+Lane T Barnes (Lane)
+Stephen P Beckstrand (Stephen)
 x	Chase C Cheney
-x	Jacob Gregory Clawson
+Jacob Gregory Clawson (Jacob)
 x	Sean R Collings
 x	Jonathan Udall Crandall
 x	Leo Vincenzo Casalicchio Craven
@@ -12,13 +12,13 @@ x	Jake Michael Epperson
 x	Thadeus Don Ferney
 x	Austin Christopher Galura
 x	Jonathan Gates
-x	Jaren Sean Glenn
+Jaren Sean Glenn (Jaren)
 x	Caleb Allan Harris
 x	Brandon K Hicken
 x	Eathan Yves Hodgkinson
 x	Nathan Lloyd Huntzinger
-x	Erik R Johnson
-x	Jackson J Miles
+Erik R Johnson
+Jackson J Miles (Jackson)
 x	Gavin R Murdock
 x	Carter Israel Parks
 x	Ethan Payne
@@ -27,13 +27,13 @@ x	Marcus C Quincy
 x	David Capelletti Rasmussen
 x	Justin Samuel Reid
 x	Jonathan P Scoresby
-x	Vinny M Smith
+Vinny M Smith (Vinny)
 Nick Parker Sorenson (Nick)
-x	Brock Brock Sponenburgh
-x	Brandon Spencer Stone
+Brock Sponenburgh (Brock)
+Brandon Spencer Stone (Brandon)
 x	Jordan D Taylor
 x	Alex Troy Teeples
-x	Andrew C. Ward
+Andrew C. Ward (Andy)
 x	Dan W Watson
 x	Joshua A Williams
 

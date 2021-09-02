@@ -1,0 +1,5 @@
+Hello, my name is Leonardo Craven.
+
+My favorite coding environments are anything released by JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+
+My favorite programming language is Java, as it makes the most sense to me and seems natural once you understand how it works.

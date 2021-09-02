@@ -1,3 +1,7 @@
 Austin Galura
 VS code
+<<<<<<< HEAD
 Java
+=======
+Java
+>>>>>>> 82420b08d3d60473dfe7f311591c8013ac8404e8

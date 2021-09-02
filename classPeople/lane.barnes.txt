@@ -1,0 +1,3 @@
+My name is Lane Barnes and my favorite coding environment is IntelliJ or
+something very similar like PyCharm. I really like Python but I have not used
+it in a while so my favorite language right now is Java. 

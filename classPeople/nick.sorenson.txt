@@ -1,0 +1,3 @@
+My name is: .......Nick Sorenson!
+My favorite coding enviornment is: ......... VS Code or Vim. It depends what I want to do, but If i'm on VS code you already know I have the vim extension enabled.
+Favorite Language? : ........... Javascript or Python. JS has really grown on me.

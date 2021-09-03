@@ -1,0 +1,3 @@
+Jonathan Scoresby
+Pycharm or Vim
+Python

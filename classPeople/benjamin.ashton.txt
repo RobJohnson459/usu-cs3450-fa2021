@@ -1,0 +1,3 @@
+Benjamin Ashton
+My current favorite coding environment is Atom
+My favorite programming language is Python
